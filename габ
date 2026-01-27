@@ -1,0 +1,110 @@
+[
+  {
+    "id": "gab_001",
+
+    "gab": true,
+    "gab_type": "newbuild",
+
+    "region": "Московская область",
+    "city": "Видное",
+    "ao": null,
+
+    "address": "Ленинский городской округ, д. Мисайлово",
+
+    "area_m2": 145.8,
+    "price_rub": 26761719,
+    "price_per_m2_rub": 183551,
+    "commission_rub": 669043,
+
+    "object_type": "ПСН",
+    "object_format": "Новостройка",
+
+    "developer": "Самолет",
+    "metro": "Котельники",
+
+    "gab_description": "Арендатор: фитнес-клуб. Арендный платёж: 198 516 руб./мес. Срок договора: 5 лет. Доходность: 9,4%. Окупаемость: 10 лет 7 мес.",
+
+    "link": "https://samolet.ru/commercial/project/xxx"
+  },
+  {
+    "id": "gab_002",
+
+    "gab": true,
+    "gab_type": "business_center",
+
+    "region": "Москва",
+    "city": "Москва",
+    "ao": "САО",
+
+    "address": "г. Москва, Ленинградское шоссе",
+
+    "area_m2": 412,
+    "price_rub": 84500000,
+    "price_per_m2_rub": 205097,
+    "commission_rub": null,
+
+    "object_type": "Бизнес-центр",
+    "object_format": "Встроенное",
+
+    "developer": "ГК ФСК",
+    "metro": "Водный стадион",
+
+    "gab_description": "Арендатор: Магнит. МАП 1-й год — 707 701 руб./мес. МАП 2-й год — 943 602 руб./мес. Срок договора — 10 лет.",
+
+    "link": "https://fsk.ru/commercial/xxx"
+  },
+  {
+    "id": "gab_003",
+
+    "gab": true,
+    "gab_type": "mixed",
+
+    "region": "Москва",
+    "city": "Москва",
+    "ao": "ЮАО",
+
+    "address": "г. Москва, Варшавское шоссе",
+
+    "area_m2": 356,
+    "price_rub": 73000000,
+    "price_per_m2_rub": 205056,
+    "commission_rub": null,
+
+    "object_type": "ПСН",
+    "object_format": "Новостройка",
+
+    "developer": "Самолет",
+    "metro": "Аннино",
+
+    "gab_description": "Заключен договор аренды с АО Тандер (Магнит). Срок договора — 10 лет.",
+
+    "link": "https://samolet.ru/commercial/project/yyy"
+  },
+  {
+    "id": "gab_004",
+
+    "gab": true,
+    "gab_type": "newbuild",
+
+    "region": "Москва",
+    "city": "Москва",
+    "ao": "ЦАО",
+
+    "address": "г. Москва, ул. Большая Ордынка",
+
+    "area_m2": 98.4,
+    "price_rub": 41200000,
+    "price_per_m2_rub": 418699,
+    "commission_rub": null,
+
+    "object_type": "ПСН",
+    "object_format": "Новостройка",
+
+    "developer": "ГК ПИК",
+    "metro": "Третьяковская",
+
+    "gab_description": "Арендатор: Дикси. МАП 1-й год — 1 177 443 руб./мес. МАП 2-й год — 1 236 315 руб./мес. Срок договора — 10 лет.",
+
+    "link": "https://pik.ru/commercial/zzz"
+  }
+]
