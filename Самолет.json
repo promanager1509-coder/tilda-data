@@ -1,0 +1,2615 @@
+[
+  {
+    "uid": "SAMOLET__Большое Путилково__42.5__17435835",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 6",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 42.5,
+    "floor": 1.0,
+    "price": 17435835,
+    "price_per_m2": 410255,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25036/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__48.25__19401908",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 48.25,
+    "floor": 1.0,
+    "price": 19401908,
+    "price_per_m2": 402112,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/25135/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": 2.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Мытищи Парк__83.24__19729548",
+    "developer": "Самолёт",
+    "jk": "Мытищи Парк",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.24,
+    "floor": 1.0,
+    "price": 19729548,
+    "price_per_m2": 237020,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/mytischi-park/objects/26393/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 5.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Томилино Парк__110.5__20191565",
+    "developer": "Самолёт",
+    "jk": "Томилино Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пгт Томилино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 110.5,
+    "floor": 1.0,
+    "price": 20191565,
+    "price_per_m2": 182729,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/tomilino/objects/24366/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "2026-04-05T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__86.01__20679628",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 86.01,
+    "floor": 1.0,
+    "price": 20679628,
+    "price_per_m2": 240433,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/26729/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 18.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__86.57__20772104",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 86.57,
+    "floor": 1.0,
+    "price": 20772104,
+    "price_per_m2": 239946,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/26728/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 18.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__71.09__20784739",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 71.09,
+    "floor": 1.0,
+    "price": 20784739,
+    "price_per_m2": 292372,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/26932/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": 31.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новоград Павлино__70.5__20839822",
+    "developer": "Самолёт",
+    "jk": "Новоград Павлино",
+    "city": "Балашиха",
+    "district": null,
+    "address": "г. Балашиха, мкр. Павлино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 70.5,
+    "floor": 1.0,
+    "price": 20839822,
+    "price_per_m2": 295600,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novograd-pavlino/objects/27137/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 июн. 2026",
+      "queue": null,
+      "building": 9.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__88.02__21470897",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 88.02,
+    "floor": 1.0,
+    "price": 21470897,
+    "price_per_m2": 243932,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/26718/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 18.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пятницкие Луга__83.89__21540345",
+    "developer": "Самолёт",
+    "jk": "Пятницкие Луга",
+    "city": "Красногорск",
+    "district": null,
+    "address": "г.о. Красногорск, дер. Сабурово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.89,
+    "floor": 1.0,
+    "price": 21540345,
+    "price_per_m2": 256769,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/pyatnitskie-luga/objects/23818/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 авг. 2026",
+      "queue": null,
+      "building": "2026-01-02T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пятницкие Луга__83.91__21544754",
+    "developer": "Самолёт",
+    "jk": "Пятницкие Луга",
+    "city": "Красногорск",
+    "district": null,
+    "address": "г.о. Красногорск, дер. Сабурово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.91,
+    "floor": 1.0,
+    "price": 21544754,
+    "price_per_m2": 256760,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/pyatnitskie-luga/objects/23836/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 авг. 2026",
+      "queue": null,
+      "building": "2026-01-02T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пятницкие Луга__87.6__22316324",
+    "developer": "Самолёт",
+    "jk": "Пятницкие Луга",
+    "city": "Красногорск",
+    "district": null,
+    "address": "г.о. Красногорск, дер. Сабурово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 87.6,
+    "floor": 1.0,
+    "price": 22316324,
+    "price_per_m2": 254753,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/pyatnitskie-luga/objects/23835/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 авг. 2026",
+      "queue": null,
+      "building": "2026-01-02T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новое Видное__122.41__22458752",
+    "developer": "Самолёт",
+    "jk": "Новое Видное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, г. Видное",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 122.41,
+    "floor": 1.0,
+    "price": 22458752,
+    "price_per_m2": 183472,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novoe-vidnoe/objects/27946/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2027",
+      "queue": null,
+      "building": "2026-02-14T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новое Видное__122.46__22469981",
+    "developer": "Самолёт",
+    "jk": "Новое Видное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, г. Видное",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 122.46,
+    "floor": 1.0,
+    "price": 22469981,
+    "price_per_m2": 183488,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novoe-vidnoe/objects/27941/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2027",
+      "queue": null,
+      "building": "2026-01-14T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новое Видное__122.9__22487265",
+    "developer": "Самолёт",
+    "jk": "Новое Видное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, г. Видное",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 122.9,
+    "floor": 1.0,
+    "price": 22487265,
+    "price_per_m2": 182972,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novoe-vidnoe/objects/27940/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2027",
+      "queue": null,
+      "building": "2026-01-14T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новое Видное__123.26__22544663",
+    "developer": "Самолёт",
+    "jk": "Новое Видное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, г. Видное",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 123.26,
+    "floor": 1.0,
+    "price": 22544663,
+    "price_per_m2": 182903,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novoe-vidnoe/objects/27943/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2027",
+      "queue": null,
+      "building": "2026-02-14T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__99.96__22678484",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 99.96,
+    "floor": 1.0,
+    "price": 22678484,
+    "price_per_m2": 226876,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/26749/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 18.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Авиаторов__83.75__23144255",
+    "developer": "Самолёт",
+    "jk": "Квартал Авиаторов",
+    "city": "Балашиха",
+    "district": null,
+    "address": "г. Балашиха, мкр. Авиаторов",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.75,
+    "floor": 1.0,
+    "price": 23144255,
+    "price_per_m2": 276349,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-aviatorov/objects/27785/?type=sale",
+    "construction": {
+      "delivery_date": "2027-03-29T00:00:00",
+      "queue": null,
+      "building": 2.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__84.79__23180840",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 84.79,
+    "floor": 1.0,
+    "price": 23180840,
+    "price_per_m2": 273391,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/26927/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-01-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__83.8__23600787",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.8,
+    "floor": 1.0,
+    "price": 23600787,
+    "price_per_m2": 281632,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/auctions/commercial/4761/",
+    "construction": {
+      "delivery_date": "Аукцион  30 июн. 2026",
+      "queue": null,
+      "building": "2026-01-10T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__75.2__23707389",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 75.2,
+    "floor": 1.0,
+    "price": 23707389,
+    "price_per_m2": 315258,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/26287/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": 33.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Долина Яузы__88.6__23762595",
+    "developer": "Самолёт",
+    "jk": "Долина Яузы",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 88.6,
+    "floor": 2.0,
+    "price": 23762595,
+    "price_per_m2": 268201,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/dolina-yauzy/objects/24508/?type=sale",
+    "construction": {
+      "delivery_date": "сдан ",
+      "queue": null,
+      "building": 1.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новоград Павлино__91.0__23777956",
+    "developer": "Самолёт",
+    "jk": "Новоград Павлино",
+    "city": "Балашиха",
+    "district": null,
+    "address": "г. Балашиха, мкр. Павлино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 91.0,
+    "floor": 1.0,
+    "price": 23777956,
+    "price_per_m2": 261296,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novograd-pavlino/objects/27126/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2026",
+      "queue": null,
+      "building": 8.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__91.8__24142578",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 91.8,
+    "floor": 1.0,
+    "price": 24142578,
+    "price_per_m2": 262991,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27277/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__66.7__25388296",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 66.7,
+    "floor": 1.0,
+    "price": 25388296,
+    "price_per_m2": 380634,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/26285/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "2026-03-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__69.98__25420628",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 7",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 69.98,
+    "floor": 1.0,
+    "price": 25420628,
+    "price_per_m2": 363256,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25033/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__76.91__25569153",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 8",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 76.91,
+    "floor": 1.0,
+    "price": 25569153,
+    "price_per_m2": 332456,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25051/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Рублевский Квартал__83.93__25771571",
+    "developer": "Самолёт",
+    "jk": "Рублевский Квартал",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, дер. Раздоры",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 83.93,
+    "floor": 1.0,
+    "price": 25771571,
+    "price_per_m2": 307060,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/rublevskiy-kvartal/objects/26611/?type=sale",
+    "construction": {
+      "delivery_date": "2026-07-31T00:00:00",
+      "queue": null,
+      "building": 56.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новоград Павлино__91.0__25877811",
+    "developer": "Самолёт",
+    "jk": "Новоград Павлино",
+    "city": "Балашиха",
+    "district": null,
+    "address": "г. Балашиха, мкр. Павлино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 91.0,
+    "floor": 1.0,
+    "price": 25877811,
+    "price_per_m2": 284372,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novograd-pavlino/objects/27136/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 июн. 2027",
+      "queue": null,
+      "building": 9.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__100.26__25992241",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 100.26,
+    "floor": 1.0,
+    "price": 25992241,
+    "price_per_m2": 259248,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27292/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Мытищи Парк__110.66__26455050",
+    "developer": "Самолёт",
+    "jk": "Мытищи Парк",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 110.66,
+    "floor": 1.0,
+    "price": 26455050,
+    "price_per_m2": 239066,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/mytischi-park/objects/26384/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 5.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Горки Парк__107.34__26501753",
+    "developer": "Самолёт",
+    "jk": "Горки Парк",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, дер. Коробово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 107.34,
+    "floor": 1.0,
+    "price": 26501753,
+    "price_per_m2": 246895,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/gorki-park/objects/27513/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": "2026-02-08T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Долина Яузы__84.8__26642751",
+    "developer": "Самолёт",
+    "jk": "Долина Яузы",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 84.8,
+    "floor": 2.0,
+    "price": 26642751,
+    "price_per_m2": 314183,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/dolina-yauzy/objects/24507/?type=sale",
+    "construction": {
+      "delivery_date": "сдан",
+      "queue": null,
+      "building": 1.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__145.8__26761719",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 145.8,
+    "floor": 1.0,
+    "price": 26761719,
+    "price_per_m2": 183551,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/23732/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 63.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Новое Видное__111.4__26931864",
+    "developer": "Самолёт",
+    "jk": "Новое Видное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, г. Видное",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 111.4,
+    "floor": 1.0,
+    "price": 26931864,
+    "price_per_m2": 241758,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/novoe-vidnoe/objects/25351/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 мар. 2027",
+      "queue": null,
+      "building": "2026-02-13T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__104.57__26976371",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 104.57,
+    "floor": 1.0,
+    "price": 26976371,
+    "price_per_m2": 257974,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27288/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__77.58__28012288",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 9",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 77.58,
+    "floor": 1.0,
+    "price": 28012288,
+    "price_per_m2": 361076,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25025/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__82.58__28907492",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 10",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 82.58,
+    "floor": 1.0,
+    "price": 28907492,
+    "price_per_m2": 350054,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25046/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__113.64__29639758",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 113.64,
+    "floor": 1.0,
+    "price": 29639758,
+    "price_per_m2": 260822,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27290/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__111.59__30335776",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 111.59,
+    "floor": 1.0,
+    "price": 30335776,
+    "price_per_m2": 271850,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27280/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__108.31__30620790",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 108.31,
+    "floor": 1.0,
+    "price": 30620790,
+    "price_per_m2": 282714,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/25136/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": 2.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Рублевский Квартал__104.05__31020857",
+    "developer": "Самолёт",
+    "jk": "Рублевский Квартал",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, дер. Раздоры",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 104.05,
+    "floor": 1.0,
+    "price": 31020857,
+    "price_per_m2": 298134,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/rublevskiy-kvartal/objects/26575/?type=sale",
+    "construction": {
+      "delivery_date": "2026-07-31T00:00:00",
+      "queue": null,
+      "building": 55.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__109.13__31241926",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 109.13,
+    "floor": 1.0,
+    "price": 31241926,
+    "price_per_m2": 286282,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/26922/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-01-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__101.24__31403326",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 101.24,
+    "floor": 1.0,
+    "price": 31403326,
+    "price_per_m2": 310187,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/26769/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 19.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__95.82__34423276",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 95.82,
+    "floor": 1.0,
+    "price": 34423276,
+    "price_per_m2": 359249,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/26291/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "2026-01-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__126.63__34441668",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 126.63,
+    "floor": 1.0,
+    "price": 34441668,
+    "price_per_m2": 271987,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/26280/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "2026-03-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__138.13__33743496",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 138.13,
+    "floor": 1.0,
+    "price": 33743496,
+    "price_per_m2": 244288,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27284/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__107.33__34423276",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 11",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 107.33,
+    "floor": 1.0,
+    "price": 34423276,
+    "price_per_m2": 320724,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25041/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Западный__126.63__34441668",
+    "developer": "Самолёт",
+    "jk": "Квартал Западный",
+    "city": "Одинцово",
+    "district": null,
+    "address": "Одинцовский городской округ, рп Новоивановское",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 126.63,
+    "floor": 1.0,
+    "price": 34441668,
+    "price_per_m2": 271987,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-zapadniy/objects/26280/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "2026-03-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Егорово Парк__138.13__35232591",
+    "developer": "Самолёт",
+    "jk": "Егорово Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пос. Егорово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 138.13,
+    "floor": 1.0,
+    "price": 35232591,
+    "price_per_m2": 255068,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/egorovo-park/objects/27284/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2026",
+      "queue": null,
+      "building": "2026-02-03T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__90.33__35413762",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 12",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 90.33,
+    "floor": 1.0,
+    "price": 35413762,
+    "price_per_m2": 392049,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25039/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__112.14__37268593",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 13",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 112.14,
+    "floor": 1.0,
+    "price": 37268593,
+    "price_per_m2": 332340,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25027/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__97.6__37943710",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 14",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 97.6,
+    "floor": null,
+    "price": 37943710,
+    "price_per_m2": 388768,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/auctions/commercial/4749/",
+    "construction": {
+      "delivery_date": "Аукцион Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__110.8__53915157",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 15",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 110.8,
+    "floor": null,
+    "price": 53915157,
+    "price_per_m2": 486599,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/auctions/commercial/4750/",
+    "construction": {
+      "delivery_date": "Аукцион Дата сдачи до 30 апр. 2027 ",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Большое Путилково__140.84__58070180",
+    "developer": "Самолёт",
+    "jk": "Большое Путилково",
+    "city": "Красногорск",
+    "district": null,
+    "address": "Посёлок городского типа Путилково, Просторная ул., 16",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 140.84,
+    "floor": 1.0,
+    "price": 58070180,
+    "price_per_m2": 412313,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bolshoe-putilkovo/objects/25050/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 апр. 2027",
+      "queue": null,
+      "building": 28.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Квартал Ивакино__282.81__90478918",
+    "developer": "Самолёт",
+    "jk": "Квартал Ивакино",
+    "city": "Химки",
+    "district": null,
+    "address": "г.о. Химки, мкр. Ивакино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 282.81,
+    "floor": 1.0,
+    "price": 90478918,
+    "price_per_m2": 319928,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/kvartal-ivakino/objects/26293/?type=sale",
+    "construction": {
+      "delivery_date": "2026-03-30T00:00:00",
+      "queue": null,
+      "building": "Паркинг №10",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Томилино Парк__456.0__90700563",
+    "developer": "Самолёт",
+    "jk": "Томилино Парк",
+    "city": "Люберцы",
+    "district": null,
+    "address": "г.о. Люберцы, пгт Томилино",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 456.0,
+    "floor": 1.0,
+    "price": 90700563,
+    "price_per_m2": 198905,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/tomilino/objects/35112/?type=sale",
+    "construction": {
+      "delivery_date": "Сдан",
+      "queue": null,
+      "building": "автостоянка №1",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Мытищи Парк__467.2__106495385",
+    "developer": "Самолёт",
+    "jk": "Мытищи Парк",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 467.2,
+    "floor": 1.0,
+    "price": 106495385,
+    "price_per_m2": 227944,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/mytischi-park/objects/29245/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": "паркинг №1",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Пригород Лесное__428.91__141448730",
+    "developer": "Самолёт",
+    "jk": "Пригород Лесное",
+    "city": "Видное",
+    "district": null,
+    "address": "Ленинский городской округ, д. Мисайлово",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 428.91,
+    "floor": 1.0,
+    "price": 141448730,
+    "price_per_m2": 329787,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/prigorod-lesnoe/objects/32271/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 18.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__88.1__292630324",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 88.1,
+    "floor": 1.0,
+    "price": 292630324,
+    "price_per_m2": 3321570,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/auctions/commercial/4761/",
+    "construction": {
+      "delivery_date": "Аукцион  30 июн. 2026",
+      "queue": null,
+      "building": "2026-01-07T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__102.8__364447887",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 102.8,
+    "floor": 1.0,
+    "price": 364447887,
+    "price_per_m2": 3545213,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/auctions/commercial/4762/",
+    "construction": {
+      "delivery_date": "Аукцион  30 июн. 2026",
+      "queue": null,
+      "building": "2026-01-07T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Мытищи Парк__479.57__25156959",
+    "developer": "Самолёт",
+    "jk": "Мытищи Парк",
+    "city": "Мытищи",
+    "district": null,
+    "address": "г. Мытищи, Мытищинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 479.57,
+    "floor": 1.0,
+    "price": 25156959,
+    "price_per_m2": 52457,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/mytischi-park/objects/35087/?type=sale",
+    "construction": {
+      "delivery_date": "Дата сдачи до 30 сен. 2026",
+      "queue": null,
+      "building": 6.0,
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Sky Sputnik__719.1__111852100",
+    "developer": "Самолёт",
+    "jk": "Sky Sputnik",
+    "city": "Красногорск",
+    "district": null,
+    "address": "г.о. Красногорск, д. Раздоры, ул. Липовой Рощи",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 719.1,
+    "floor": -1.0,
+    "price": 111852100,
+    "price_per_m2": 155545,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/sputnik/objects/7929/?type=sale",
+    "construction": {
+      "delivery_date": "2026-07-31T00:00:00",
+      "queue": null,
+      "building": "Общественный центр",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Sky Sputnik__1106.9__131829815",
+    "developer": "Самолёт",
+    "jk": "Sky Sputnik",
+    "city": "Красногорск",
+    "district": null,
+    "address": "г.о. Красногорск, д. Раздоры, ул. Липовой Рощи",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 1106.9,
+    "floor": -1.0,
+    "price": 131829815,
+    "price_per_m2": 119098,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/sputnik/objects/7930/?type=sale",
+    "construction": {
+      "delivery_date": "2026-07-31T00:00:00",
+      "queue": null,
+      "building": "Общественный центр",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__136.01__25156959",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 136.01,
+    "floor": 1.0,
+    "price": 25156959,
+    "price_per_m2": 184964,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bogdanovskij-les/objects/26479/?type=sale",
+    "construction": {
+      "delivery_date": "2026-06-30T00:00:00",
+      "queue": null,
+      "building": "2026-04-07T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__435.81__111852100",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 435.81,
+    "floor": 1.0,
+    "price": 111852100,
+    "price_per_m2": 256653,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bogdanovskij-les/objects/33892/?type=sale",
+    "construction": {
+      "delivery_date": "2026-06-30T00:00:00",
+      "queue": null,
+      "building": "2026-03-07T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  },
+  {
+    "uid": "SAMOLET__Богдановский Лес__436.09__131829815",
+    "developer": "Самолёт",
+    "jk": "Богдановский Лес",
+    "city": "Видное",
+    "district": null,
+    "address": "дер. Богданиха, Ленинский городской округ",
+    "type": "ПСН Новостройка ",
+    "gab": false,
+    "area": 436.09,
+    "floor": 1.0,
+    "price": 131829815,
+    "price_per_m2": 302300,
+    "discount_percent": null,
+    "plan_url": null,
+    "object_url": "https://samolet.ru/commercial/project/bogdanovskij-les/objects/35426/?type=sale",
+    "construction": {
+      "delivery_date": "2026-06-30T00:00:00",
+      "queue": null,
+      "building": "2026-02-10T00:00:00",
+      "status": "свободен"
+    },
+    "features": {
+      "showcase_windows": null,
+      "separate_entrance": null,
+      "ceiling_height_m": "3,3+",
+      "power_kw": null
+    },
+    "marketing": {
+      "description": null,
+      "promo_text": null,
+      "advantages": null,
+      "mortgage": "https://samolet.ru/promo-ipoteka/",
+      "banks": null,
+      "actions_text": null
+    },
+    "source": "samolet",
+    "updated_at": "2026-02-05"
+  }
+]
