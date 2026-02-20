@@ -1,665 +1,120 @@
-[
-  {
-    "uid": "LSR__ЗИЛАРТ__13.7__2915181",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 13.7,
-    "floor": null,
-    "price": 2915181,
-    "price_per_m2": 212787,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/57172/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
+{
+  "developer": "ГК ЛСР",
+  "residential_complex": "ЗИЛАРТ МАРК",
+  "building": "Дом 33",
+  "city": "Москва",
+  "district": "Даниловский",
+  "metro": {
+    "name": "ЗИЛ",
+    "walk_minutes": 5
   },
-  {
-    "uid": "LSR__ЗИЛАРТ__36.1__7599013",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва  ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 36.1,
-    "floor": null,
-    "price": 7599013,
-    "price_per_m2": 210499,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/57170/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
+  "class": "Бизнес-класс",
+  "completion_year": 2027,
+  "address": "ул. Автозаводская",
+  "units": [
+    {
+      "type": "ПСН",
+      "number": "НП_1_18Н",
+      "floor": 1,
+      "area_m2": 83.2,
+      "finish": "без отделки",
+      "price_rub": 50525010
     },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_10Н",
+      "floor": 1,
+      "area_m2": 79.2,
+      "finish": "без отделки",
+      "price_rub": 65872057
     },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_8Н",
+      "floor": 1,
+      "area_m2": 89.5,
+      "finish": "без отделки",
+      "price_rub": 73455545
     },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ__23.0__10010037",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 23.0,
-    "floor": null,
-    "price": 10010037,
-    "price_per_m2": 435219,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/59667/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
+    {
+      "type": "ПСН",
+      "number": "НП_1_2Н",
+      "floor": 1,
+      "area_m2": 91.0,
+      "finish": "без отделки",
+      "price_rub": 74535370
     },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_23Н",
+      "floor": 1,
+      "area_m2": 83.0,
+      "finish": "без отделки",
+      "price_rub": 74827073
     },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_7Н",
+      "floor": 1,
+      "area_m2": 94.8,
+      "finish": "без отделки",
+      "price_rub": 77254226
     },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ__21.1__10106984",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 21.1,
-    "floor": null,
-    "price": 10106984,
-    "price_per_m2": 479004,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/59809/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
+    {
+      "type": "ПСН",
+      "number": "НП_1_21Н",
+      "floor": 1,
+      "area_m2": 103.1,
+      "finish": "без отделки",
+      "price_rub": 83085547
     },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_11Н",
+      "floor": 1,
+      "area_m2": 120.6,
+      "finish": "без отделки",
+      "price_rub": 99625248
     },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_24Н",
+      "floor": 1,
+      "area_m2": 118.2,
+      "finish": "без отделки",
+      "price_rub": 101641530
     },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ__22.9__10440247",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 22.9,
-    "floor": null,
-    "price": 10440247,
-    "price_per_m2": 455906,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/57284/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
+    {
+      "type": "ПСН",
+      "number": "НП_1_9Н",
+      "floor": 1,
+      "area_m2": 124.9,
+      "finish": "без отделки",
+      "price_rub": 102582759
     },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_6Н",
+      "floor": 1,
+      "area_m2": 126.3,
+      "finish": "без отделки",
+      "price_rub": 103510049
     },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
+    {
+      "type": "ПСН",
+      "number": "НП_1_20Н",
+      "floor": 1,
+      "area_m2": 126.6,
+      "finish": "без отделки",
+      "price_rub": 103712365
     },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ__21.4__10493875",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 21.4,
-    "floor": null,
-    "price": 10493875,
-    "price_per_m2": 490368,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/57285/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ__23.2__10692787",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва ул. Автозаводская, вл. 23",
-    "type": "Офис",
-    "gab": false,
-    "area": 23.2,
-    "floor": null,
-    "price": 10692787,
-    "price_per_m2": 460896,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/zilart-grand/60170/",
-    "construction": {
-      "delivery_date": "I кв. 2026",
-      "queue": null,
-      "building": "ЗИЛАРТ ГРАНД (Дом 18)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__120.6__99625248",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 120.6,
-    "floor": null,
-    "price": 99625248,
-    "price_per_m2": 826080,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64445/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__116.1__91912887",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 116.1,
-    "floor": null,
-    "price": 91912887,
-    "price_per_m2": 791670,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64447/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__103.1__83083547",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 103.1,
-    "floor": null,
-    "price": 83083547,
-    "price_per_m2": 805854,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64455/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__94.8__77254226",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 94.8,
-    "floor": null,
-    "price": 77254226,
-    "price_per_m2": 814918,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64451/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__83.0__74827073",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 83.0,
-    "floor": null,
-    "price": 74827073,
-    "price_per_m2": 901531,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64457/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__91.0__74535370",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 91.0,
-    "floor": null,
-    "price": 74535370,
-    "price_per_m2": 819070,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64446/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__89.5__73453545",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 89.5,
-    "floor": null,
-    "price": 73453545,
-    "price_per_m2": 820710,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64442/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__79.2__65892657",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 79.2,
-    "floor": null,
-    "price": 65892657,
-    "price_per_m2": 831978,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64444/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__62.7__50523910",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 62.7,
-    "floor": null,
-    "price": 50523910,
-    "price_per_m2": 805804,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64450/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  },
-  {
-    "uid": "LSR__ЗИЛАРТ, МАРК (Дом 33)__45.1__40481669",
-    "developer": "ЛСР",
-    "jk": "ЗИЛАРТ, МАРК (Дом 33)",
-    "city": "Москва",
-    "district": "Даниловский",
-    "address": "г. Москва улица Автозаводская 23/436",
-    "type": "Ритейл",
-    "gab": false,
-    "area": 45.1,
-    "floor": null,
-    "price": 40481669,
-    "price_per_m2": 897598,
-    "discount_percent": null,
-    "plan_url": null,
-    "object_url": "https://www.lsr.ru/msk/kommercheskaya-nedvizhimost/premise/mark/64449/",
-    "construction": {
-      "delivery_date": "IV кв. 2027",
-      "queue": null,
-      "building": "Дом 33 (МАРК)",
-      "status": "строится"
-    },
-    "features": {
-      "showcase_windows": null,
-      "separate_entrance": null,
-      "ceiling_height_m": null,
-      "power_kw": null
-    },
-    "marketing": {
-      "description": null,
-      "promo_text": null,
-      "advantages": null,
-      "mortgage": null,
-      "banks": null,
-      "actions_text": null
-    },
-    "source": "lsr",
-    "updated_at": "2026-02-05"
-  }
-]
+    {
+      "type": "ПСН",
+      "number": "НП_1_22Н",
+      "floor": 1,
+      "area_m2": 115.2,
+      "finish": "без отделки",
+      "price_rub": 106467786
+    }
+  ]
+}
